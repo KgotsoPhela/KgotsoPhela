@@ -10,7 +10,7 @@ An aspiring data scientist from Limpopo and currently based in Atteridgeville, P
 
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/db/f1/04/dbf104a11125f2620afab8f164b8390b.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/db/f1/04/dbf104a11125f2620afab8f164b8390b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgotsophela&label=Profile%20views&color=0e75b6&style=flat" alt="kgotsophela" /> </p>
 
