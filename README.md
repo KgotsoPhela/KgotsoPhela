@@ -13,7 +13,7 @@ An aspiring data scientist from Limpopo and currently based in Atteridgeville, P
 
 ## 🔭 Current Projects
 
-I’m currently working on **Building predictive Model For Discharges (Unclean water discharge into the environment from the Sewerage Treatment Works) and Pollutions Given Environmental Conditions using Pyspark.**
+I’m currently working on building predictive Model For Discharges (Unclean water discharge into the environment from the Sewerage Treatment Works) and Pollutions Given Environmental Conditions using Pyspark.
 
 ## 🌱 I’m currently learning Pyspark
 
