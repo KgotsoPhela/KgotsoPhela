@@ -1,6 +1,11 @@
 [![MasterHead](https://github.com/KgotsoPhela/KgotsoPhela/blob/main/My%20banner.PNG)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kgotso Phela</h1>
-<h3 align="center">An aspiring data scientist from Limpopo and currently based in Atteridgeville, Pretoria, South Africa. I have always been and still am a fan of technology with great interest and love for programming. I am currently doing my Data Science Training with Explore Data Science Academy and have started my internship with Explore Utilities.</h3>
+
+An aspiring data scientist from Limpopo and currently based in Atteridgeville, Pretoria, South Africa. I have always been and still am a fan of technology with great interest and love for programming. I am currently doing my Data Science Training with Explore Data Science Academy and have started my internship with Explore Utilities.You can find me on [LinkedIn](http://www.linkedin.com/in/kgotso-phela-37495b21a)</h3>
+
+
+
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgotsophela&label=Profile%20views&color=0e75b6&style=flat" alt="kgotsophela" /> </p>
