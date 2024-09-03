@@ -5,7 +5,7 @@
 
 
 
-An aspiring data scientist from Limpopo and currently based in Atteridgeville, Pretoria, South Africa. I have always been and still am a fan of technology with great interest and love for programming. I am currently doing my Data Science Training with Explore Data Science Academy and have started my internship with Explore Utilities. Find me on [LinkedIn](http://www.linkedin.com/in/kgotso-phela-37495b21a)</h3>
+I am a solutions-driven Data Scientist and Software Engineer with over three years experience in data science, strong analytical skills and machine learning, also experienced in data capturing and compiling statistical reports. Leveraging my Data Science and Software Engineering skills and techniques to come up with actionable insights and solutions that will positively impact the organization by minimizing costs and maximizing profits. Find me on [LinkedIn](http://www.linkedin.com/in/kgotso-phela-37495b21a)</h3>
 
 
 
