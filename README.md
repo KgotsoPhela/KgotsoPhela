@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/KgotsoPhela/KgotsoPhela/blob/main/My%20banner.PNG)](https://rishavchanda.io](https://github.com/KgotsoPhela/KgotsoPhela/blob/main/banner222.jpeg))
+[![MasterHead]([https://github.com/KgotsoPhela/KgotsoPhela/blob/main/My%20banner.PNG)])
 
 
 # Hi 👋 I'm Kgotso Phela
